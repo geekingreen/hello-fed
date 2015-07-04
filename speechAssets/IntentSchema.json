@@ -1,0 +1,21 @@
+{
+  "intents": [{
+    "intent": "AddName",
+    "slots": [{
+      "name": "Name",
+      "type": "LITERAL"
+    }]
+  }, {
+    "intent": "SayHello",
+    "slots": []
+  }, {
+    "intent": "Help",
+    "slots": []
+  }, {
+    "intent": "Reset",
+    "slots": []
+  }, {
+    "intent": "Exit",
+    "slots": []
+  }]
+}

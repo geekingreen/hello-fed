@@ -1,0 +1,46 @@
+AddName add {john|Name}
+AddName add {nancy|Name}
+AddName add {bob|Name}
+AddName add {ben|Name} to the list
+AddName add {jane|Name} to the list
+AddName add {brandon|Name} to the list
+AddName add {joel|Name} to the list
+
+SayHello say hello
+SayHello tell everyone hello
+SayHello hi
+SayHello tell everyone hi
+SayHello greet everyone
+SayHello say hi to Fed
+SayHello greet the feds
+
+Reset start over
+Reset reset
+Reset delete names
+Reset remove names
+Reset delete all names
+Reset remove all names
+
+Help help
+Help help me
+Help what can I ask you
+Help get help
+Help to help
+Help to help me
+Help what commands can I ask
+Help what commands can I say
+Help what can I do
+Help what can I use this for
+Help what questions can I ask
+Help what can you do
+Help what do you do
+Help how do I use you
+Help how can I use you
+Help what can you tell me
+
+Exit I'm done
+Exit finished
+Exit All done
+Exit No more
+Exit No more names
+Exit I've finished
